@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@theme{
+
+
+    --color-primary: #3490dc;
+    --color-one: #FBF3F0;
+    --color-two: #C4C4C4;
+    --color-text: #29313D;
+    --color-counter: #FDF9F8;
+      --font-Poppins:"Zalando Sans SemiExpanded", sans-serif; 
+}
+    
+  
+
+  
+
+    
